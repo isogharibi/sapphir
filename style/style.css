@@ -1,0 +1,180 @@
+:root {
+    --bg: #1C233D;
+    --wight: #fff;
+    --purpel: #c875e8;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg);
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 1100px;
+    margin-top: 20px;
+}
+
+.Sapphir {
+    color: var(--wight);
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 31.9px;
+}
+
+li {
+    float: right;
+    margin-left: 80px;
+    font-weight: 400;
+    list-style: none;
+    color: #919191;
+}
+
+ul {
+    margin-top: -19px;
+    margin-right: 300px;
+}
+
+.explore {
+    color: var(--wight);
+}
+
+.sign {
+    width: 93px;
+    height: 30px;
+    margin-left: 1000px;
+    display: block;
+    margin-top: -25px;
+    float: right;
+    border-radius: 5px;
+    background-color: var(--purpel);
+    border: none;
+}
+
+.text {
+    font-weight: 700;
+    color: var(--wight);
+    font-size: 60px;
+    line-height: 76.56px;
+    margin-top: 138px;
+}
+
+.flash {
+    margin-left: 277PX;
+    margin-top: -85PX;
+    display: block;
+}
+
+.frame {
+    Width: 404px;
+    Height: 494px;
+    float: right;
+    position: relative;
+    top: -180px;
+}
+
+.number {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    color: var(--wight);
+}
+
+.long {
+    position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 210px;
+    top: 399px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    color: var(--wight);
+}
+
+.dovom {
+    position: absolute;
+    width: 199px;
+    height: 40px;
+    left: 209px;
+    top: 456px;
+    border: none;
+    border-radius: 6px;
+    background-color: var(--purpel);
+}
+
+.k {
+    font-family: Space Grotesk;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-top: 200px;
+    color: var(--wight);
+}
+.kiss {
+    font-family: Space Grotesk;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 6px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -23px;
+    color: var(--wight);
+    float: right;
+    margin-right: 400px;
+}
+.kis {
+    font-family: Space Grotesk;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -46px;
+    color: var(--wight);
+    margin-left: 442px;
+    display: block;
+}
+.under-k {
+    font-family: Space Grotesk;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-top: -20px;
+    color: var(--wight);
+}
+.under-kiss {
+    font-family: Space Grotesk;
+    font-weight: 700;
+    line-height: 6px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -23px;
+    color: var(--wight);
+    float: right;
+    margin-right: 412px;
+}
+.under-kis {
+    font-family: Space Grotesk;
+    font-weight: 700;
+    line-height: 6px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -23px;
+    color: var(--wight);
+    float: right;
+    margin-right: 200px;
+}
+.manager {
+    color: #fff;
+    margin-top: 100px;
+}
